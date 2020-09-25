@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_view">View image</string>
+    <string name="switch_name_off">Dark mode</string>
+    <string name="switch_name_on">Light mode</string>
+    <string name="button_play_sound">Play sound</string>
+</resources>
